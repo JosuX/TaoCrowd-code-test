@@ -32,8 +32,7 @@ What the app should do:
 
 ### Note from Jofer
 
-I modified the file structure and the framework as Create React App is already deprecated and most of the initial packages for react-scripts is breaking on the latest react version,
-I create the project using Next.JS, which is a React Framework.
+In my implementation, I modified the file structure and updated the framework. Since the Create React App is deprecated and old, and many of the initial packages for react-scripts are incompatible with the latest version of React, I opted to build the project using Next.js, a React framework.
 
 To run in Development mode:
 ```npm run dev```
